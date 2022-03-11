@@ -14,6 +14,7 @@ public class Main {
    
    Animal caballo= new Caballo("Ponito", "Pasto", "Caballo", 10);
    caballo.alimentacion();
+   
     }
     
 }
